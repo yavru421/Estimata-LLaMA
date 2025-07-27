@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests
+PyQt6
+ddgs
+readability-lxml
+llama_api_client
+pydantic
